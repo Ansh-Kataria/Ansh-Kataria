@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Ansh 👋 
 
-<!--
-**Ansh-Kataria/Ansh-Kataria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer specializing in scalable architectures and intelligent systems. Currently, I'm focused on backend development and technical system design.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- **[Valkyrie](https://github.com/Ethara-Ai/Valkyrie):** Contributing to core development at Ethara-Ai.
+- **Task Intelligence System:** Building a data-driven Python application for predictive task management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python
+- **Backend:** NestJS, Node.js, REST APIs
+- **Frontend:** React.js, Redux, Tailwind CSS
+- **Mobile:** Flutter (Dart)
+- **DevOps:** Docker, Azure, Git
+
+### 📊 GitHub Stats
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh-Kataria&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Kataria&layout=compact&theme=radical)
+
+### 📫 Connect with me
+- **LinkedIn:** [in/ansh-kataria28](https://linkedin.com/in/ansh-kataria28)
+- **X / Twitter:** [@anshkataria28](https://x.com/anshkataria28)
