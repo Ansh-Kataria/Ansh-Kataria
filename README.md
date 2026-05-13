@@ -2,10 +2,6 @@
 
 I'm a Software Engineer specializing in scalable architectures and intelligent systems. Currently, I'm focused on backend development and technical system design.
 
-### 🔭 Currently Working On
-- **[Valkyrie](https://github.com/Ethara-Ai/Valkyrie):** Contributing to core development at Ethara-Ai.
-- **Task Intelligence System:** Building a data-driven Python application for predictive task management.
-
 ### 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python
 - **Backend:** NestJS, Node.js, REST APIs
