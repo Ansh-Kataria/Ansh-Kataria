@@ -10,8 +10,8 @@ I'm a Software Engineer specializing in scalable architectures and intelligent s
 - **DevOps:** Docker, Azure, Git
 
 ### 📊 GitHub Stats
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh-Kataria&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Kataria&layout=compact&theme=radical)
+![Ansh's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ansh-Kataria&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ansh-Kataria&layout=compact&theme=radical)
 
 ### 📫 Connect with me
 - **LinkedIn:** [in/ansh-kataria28](https://linkedin.com/in/ansh-kataria28)
